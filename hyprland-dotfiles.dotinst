@@ -6,8 +6,8 @@
 	"author": "Stephan Raabe",
 	"homepage": "https://ml4w.com/os/",
 	"dependencies": "https://ml4w.com/os/getting-started/dependencies",
-	"source": "https://github.com/mylinuxforwork/dotfiles.git",
-	"subfolder": "dotfiles",
+	"source": "https://github.com/solidus1983/ml4w-dots.git",
+	"subfolder": "ml4w-dots",
 	"restore":[
 		{
 			"title":"Your Custom Configuration",
